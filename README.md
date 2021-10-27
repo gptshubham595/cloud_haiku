@@ -106,8 +106,7 @@ Across the network<br>
 
 ### Submit a Pull Request
 
-We're happy to merge valid pull requests to this repository! Any pull request that follows the formatting guidelines above will be brought into this project.
-Let's grow this community, and grow together!
+We are happy to merge valid pull requests to this repository! Any pull request that follows the formatting guidelines above will be brought into this project.
 Keep your haikus related to cloud infrastructure technology, and have fun contributing to this project!
 
 ![Sammy the Shark and other fish swimming](https://do-community.github.io/cloud_haiku/assets/swim.png)
