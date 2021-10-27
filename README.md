@@ -14,7 +14,7 @@ To contribute a haiku to this repository, read about submitting a pull request i
 
 **Note: Due to the popularity of this repository, especially around Hacktoberfest, we will only accept one haiku contribution per user.**
 
-### Filename and Location
+### Filenames and Location
 
 You should name your Markdown file `your_haiku_title.md` and put it in the [`/_haikus`](https://github.com/do-community/cloud_haiku/tree/master/_haikus) directory of this project.
 
